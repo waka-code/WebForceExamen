@@ -1,0 +1,747 @@
+@media only screen and (min-width: 1500px){
+    .Imagen_19g{
+        height: 400px;
+        top: -30px;
+    }
+    
+    .Imagen_19b{
+        height: 500px;
+        left: -150px;
+        bottom: 0px;
+    }
+    .Section_WebforceImg{
+        bottom: 110px;
+        position: relative;
+    }
+    .section_text button{
+        height: 5vh;
+    }
+    .sectionProducts_Headline{
+        justify-content: space-around;
+        display: flex;
+        flex-direction: column;
+    }
+    .ProductoHeadline_Gose
+    .ProductoHeadline_GoseImg img{
+        height: 25vh;
+    }
+}
+
+@media only screen and (min-width: 1500px) and (max-width:1700px){
+    .Imagen_19g{
+        top: 260px;
+    }
+    
+    .Imagen_19b{
+        height: 500px;
+        left: 70px;
+        bottom: 200px;
+    }
+ 
+}
+
+
+
+@media(max-width:1200px){
+    .Imagen_19g{
+        top: 170px;
+    }
+    
+    .Imagen_19b{
+        left: 100px;
+        bottom: 145px;
+    }
+    .section_text{
+        margin-bottom: 25px;
+    }
+    .Section_Webforce article h4{
+        font-size: 15px;
+        }
+        .Section_Webforce article h2{
+            font-size: 25px;
+        }
+        .Section_Webforce article p{
+            font-size: 15px;
+        }
+        .Section_Webforce button {
+            width:185px;
+            font-size: 12px;
+        }
+        .Section_WebforceImg img{
+            width: 45px;
+            height: 40px;
+        }
+    .sectionProducts{
+        height: 100%;
+    }
+    .sectionProducts div{
+        display: flex;
+        justify-content: space-between;
+        width: 72vw;
+        height: auto;
+     }   
+     .sectionProducts_Headline{
+        height: auto;
+     }
+     .sectionProducts_Headline h4{
+        font: normal normal bold 25px/30px var(--Open--Sans);
+    }
+    .PsectionProduct  p{
+         font: normal normal normal 18px/20px var(--Open--Sans);
+      }
+      .Price_sectionProduct2 .Price{
+        font: normal normal 600 25px/30px var(--Open--Sans);
+      }
+      .sectionProducts_mock .imgMock button{
+        width: 20vw;
+     }        
+}
+
+@media(max-width:1000px){
+nav
+article{
+    display: none;
+}
+nav{
+    justify-content: space-between;
+}
+.Section_Webforce{
+    width: 80%;
+}
+.Imagen_19g{
+    left: -70px;
+}
+.Imagen_19b{
+   left: 10px;
+}
+.section_text{
+    width: 60vw;
+}
+.Section_WebforceImg{
+    width: 90vw;
+}
+.About_Webforce .contenedor_About{
+    width: 90vw;
+}
+.sectionReviews div{
+    width: 90vw;
+}
+.sectionHeadline{
+    height: auto;
+}
+.sectionHeadline div{
+    width: 90vw;
+    height: auto;
+    }
+    .section3_HeadlineText{
+        height: 60vh;
+    }
+   
+    .sectionProducts div{
+    width: 90vw;
+    flex-direction: column-reverse;
+
+    }
+    .Ingredients_WebForce section{
+        width: 90vw;
+    }
+    .Ingredients_WebForceText{
+        width: 70vw;
+        height: auto;
+        padding: 10px;
+
+    }
+    .Product_headline div{
+        width: 90vw;
+    }
+    .Product_headlineImg img{
+        height: 50vh;
+    }
+   
+    .ProductoHeadline_Gose div{
+        width: 90vw;
+    }
+    .Headline_GoseWebForce div{
+        width: 90vw;
+    }
+    footer div{
+        width: 90vw;
+    }
+    .sectionProducts_mock
+    .imgMock button{
+        width: 30vw;
+        
+     }
+}
+
+@media(max-width:815px){
+    .section_text{
+        width: 70vw;
+    }
+  
+     .Section_Webforce{
+    width: 85%;
+}
+    .About_Webforce .contenedor_About{
+        width: 95vw;
+    }
+    .sectionReviews div{
+        width: 95vw;
+    }
+
+    .sectionHeadline div{
+        width: 95vw;
+        height: auto;
+        }
+    
+        .sectionProducts div{
+        width: 95vw;
+        }
+        .Ingredients_WebForce section{
+            width: 95vw;
+        }
+        .Product_headline div{
+            width: 95vw;
+        }
+       
+        .ProductoHeadline_Gose div{
+            width: 95vw;
+        }
+        .Headline_GoseWebForce div{
+            width: 95vw;
+        }
+        footer div{
+            width: 95vw;
+        }
+       
+    }
+
+  @media(max-width:750px){
+        .Section_Webforce{
+            flex-direction: column;
+            height: auto;
+            text-align: center;
+        }
+
+     
+        .Imagen_19g{
+            top: -10px;
+            left: 50px;
+        }
+        
+        .Imagen_19b{
+            left: -60px;
+            bottom: 0px;
+        }
+        .Div_Webforce
+        .section_text h4{
+            color:#012c27;
+        }
+        .Div_Webforce
+        .section_text{
+          width: 100%;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          bottom: 25px;
+          position: relative;
+        }
+        .Div_Webforce
+        .section_text h2{
+          color: #fff;
+        }
+        .Div_Webforce
+        .section_text p{
+            color: #fff;
+          }
+          
+          .sectionProducts_mockProduct{
+            display: block; 
+          }
+          .sectionProducts_Headline{
+           display: flex;
+           justify-content: center;
+            align-items: center;
+            flex-direction: column;
+          }
+          .Price_sectionProduct{
+            display: none;
+          }
+          .Guarantee_sectionProduct{
+            display: none;
+          }
+          
+.Price_sectionProduct2{
+    background: var(--white) 0% 0% no-repeat padding-box;
+    border-radius: 15px;
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    text-align: center;
+    margin-top: 5%;
+    flex-direction: column;
+}
+.Price_sectionProduct2 ul{
+    font: normal normal normal 20px/25px var(--Open--Sans);
+    letter-spacing: 0.3px;
+    color: var(--Gray);
+}
+.Price_sectionProduct2 ul span{
+    text-decoration: line-through;
+  }
+  .Price_sectionProduct2 .Price{
+    font: normal normal 600 30px/35px var(--Open--Sans);
+    letter-spacing: 0.82px;
+   color: var(--light--black);
+   
+  }
+  .Price_sectionProduct2 button{
+    background:var(--yellow0) 0% 0% no-repeat padding-box;
+    border: 3px solid var(--yellew1);
+    border-radius: 8px;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    color: var(--white);
+    font: normal normal bold 18px/20px var(--Open--Sans);
+    letter-spacing: 0.45px;
+ }
+ .Price_sectionProduct2 button img {
+    width: 16px;
+    height: 14px;
+    background:var(--yellew2) 0% 0% no-repeat padding-box;
+    padding:1px;
+    margin-right: 10px;
+    border-radius: 50%;
+    
+}
+
+.Guarantee_sectionProduct2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+    width: 100%;
+}
+.Guarantee_sectionProduct2 img{
+    width: auto;
+    height: 10vh;
+    margin-right: 10px;
+}
+.Guarantee_sectionProduct2 ul{
+    font: normal normal bold 15px/25px var(--Open--Sans);
+    letter-spacing: 0.55px;
+    color: var(--light--black);
+    width: auto;
+
+}
+
+.Ingredients_WebForce{
+    margin-top:50px;
+}
+.Ingredients_WebForce
+section{
+    flex-direction: column;
+    height: 47vh;
+}
+
+.Img_Ingredients{
+    left: 50px;
+    top: -55px;
+    height: 35vh;
+}
+.Img_Ingredients0{
+    left: -50px;
+    bottom: 45px;
+    height: 40vh;
+}
+.Ingredients_WebForceText{
+    position: relative;
+    bottom: 75px;
+    margin: 0 auto;
+    width: 90%;
+    padding: 10px;
+}
+.section3_HeadlineText{
+    height: auto;
+ }
+  }
+
+  @media(max-width:650px){
+
+    .Product1_headline .Product1_headlineIcon article{
+       height: 12vh;
+       width: 110px;
+    }
+    .About_description {
+        padding: 15px;
+    }
+
+    .Product1_headline {
+        padding:5px 40px;
+    }
+
+    nav button{
+        display: none;
+    }
+    nav {
+        align-items: center;
+        justify-content: center;
+    }
+    .Section_WebforceImg{
+        flex-direction: column;
+    }
+
+    .Section_WebforceImg article{
+       width: 100%;
+       margin: 10px;
+    }
+ 
+    .About_Webforce .contenedor_About{
+        flex-direction: column;
+        
+    }
+    .About_description{
+        width: auto;
+    }
+    .About_img{
+        width: auto;
+    }
+    .sectionReviews_title{
+        flex-direction: column;
+        align-items: center;
+    }
+    .sectionReviews_testimonial{
+        flex-direction: column;
+        align-items: center;
+    }
+    .sectionReviews{
+        margin: 0 auto;
+    }
+  
+    .ImgTestimonia{
+        margin: 0;
+    }
+        .Testimonial_name{
+        flex-direction: column;
+        align-items: center;
+        margin-left: 0;
+    }
+    .Testimonial_name img{
+        margin-left: 0;
+        width: 30vw;
+     }
+     .sectionReviews_testimonial p{
+        margin-left: 0px;  
+        margin-top: 40px;
+     }
+   
+     .section3_HeadlineText{
+        height: auto;
+     }
+     .img0HeadlineText{
+        top: -10px;
+        left: 30px;
+     }
+     .imgHeadlineText{
+        top: 0;
+       left: -70px;
+     }
+     .sectionHeadline .section1_Headline article{
+        flex-direction: column;
+        
+     }
+     .section1_HeadlineImg img{
+        display: none;
+     }
+     .section3_HeadlineText{
+        flex-direction: column;
+     }
+
+     .Product_headline .Product0_headline{
+        flex-direction: column;
+     }
+     .Product_headlineImg{
+        width: 70vw;
+        margin: 0 auto;
+     }
+     .Product_headlineImg img{
+        width: 90%;
+        height: auto;
+     }
+     .Product1_headline{
+        flex-direction: column;
+        text-align: center;
+     }
+     .Product1_headlineIcon{
+        flex-direction: column;
+     }
+
+     .Product1_headlineIcon
+     article{
+        margin-top: 15px;
+     }
+     .ProductoHeadline_Gose{
+        width: 100%;
+     }
+     .ProductoHeadline_Gose div{
+        flex-direction: column;
+     }
+     .ProductoHeadline_GoseImg{
+        width: 100%;
+        margin: auto;
+    }
+    .ProductoHeadline_Gose section img{
+        width: 42vw;
+    }
+    .Headline_GoseWebForce div article{
+        flex-direction: column-reverse;
+    }
+    .WebForce_IMG{
+        flex-direction: column;
+        height: auto;
+        padding: 20px auto;
+    }
+    .WebForce_IMG section{
+       width: 80%;
+       margin:10px 40px;
+    }
+    footer {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+      }
+      footer div{
+       padding: 20px;
+
+      }
+    footer div section{
+      flex-direction: column;
+      margin: 15px;
+    }
+    footer div section h4{
+        margin: 15px;
+      }
+    footer div section ul{
+        flex-wrap: wrap;
+        margin: 15px;
+       justify-content: center;
+       align-items: center;
+      }
+    
+    footer div section ul li{
+       border-right: none;
+      }
+
+      .sectionProducts_mock
+    .imgMock button{
+        width: 40vw;
+
+     }
+
+     footer div p {
+        margin:0;
+        text-align: center;
+     }
+    }
+
+    
+    @media (max-width:599px){
+  
+        .img0HeadlineText{
+            left: 50px;
+            height:30vh;
+
+        }
+        .imgHeadlineText{
+            left: -40px;
+            top: 10px;
+            height:35vh;
+        }
+   
+    .imgHeadlineText{
+        height: 250px;
+
+    }
+    .img0HeadlineText{
+        height: 200px;
+
+    }
+
+    .Img_Ingredients0{
+        height: 200px;
+        bottom: 60px;
+    }
+    .Img_Ingredients{
+        height: 150px;
+        top: -80px;
+        left: 15px;
+
+    }
+    .imgMock_img535{
+        height: 150px;
+
+    }
+    .sectionMockimg{
+        height: 100px;
+
+    }
+  }
+
+  @media (max-width:510px){
+    .Imagen_19g{
+        top:30px;
+        left: -50px;
+    }
+    .Imagen_19b{
+        left: 20px;
+        bottom: 290px;
+    }
+    .img0HeadlineText{
+      left: 30px;
+      top: -3px;
+      height: 20vh;
+
+    }
+    .imgHeadlineText{
+        left: -30px;
+        height: 24vh;
+    }
+    .sectionImg_HeadlineText{
+        height: auto;
+    }
+    .sectionProducts_Headline{
+        width: 90vw;
+    }
+   
+  }
+
+  
+  @media (max-width:496px){
+    .sectionProducts_Headline{
+        padding: 10px;
+    }.sectionReviews_testimonial{
+        padding: 5px;
+    }
+    .sectionHeadline{
+        padding: 10px;
+    }
+    .section2_Headline{
+        padding:30px 0px;
+        margin: 0 35px;
+
+    }
+    .Product_headline div{
+        padding: 10px;
+     }
+     .Product0_headline{
+        padding:10px ;
+   }
+   .Product1_headline {
+    padding: 10px;
+
+}
+
+.Headline_GoseWebForce div{
+    padding: 10px;
+}
+    .sectionHeadline div{ 
+        padding: 10px;
+    }
+    .Headline_GoseWebForce div article{
+        padding: 10px;
+    }
+    .sectionProducts_mock .imgMock button{
+        width: 70%;
+    }
+    .img0HeadlineText{
+         height: 100px;
+      }
+      .imgHeadlineText{
+          height: 150px;
+          }
+          .Imagen_19g{
+             height: 180px;
+             top: -10px;
+             left: 35px;
+        }
+        .Imagen_19b{
+           height: 200px; 
+           top:-5px;
+           left: -30px;
+        }
+  }
+
+  @media (max-width:389px){
+    .img0HeadlineText{
+        left: 10px;
+        height: 80px;
+     }
+     .imgHeadlineText{
+         height: 100px;
+         }
+         
+  .sectionProducts_mock
+  .imgMock button{
+    height: auto;
+  }
+  }
+
+
+  @media (max-width:300px){
+  .About_img section article{
+    flex-direction: column;
+  }
+  .About_img section article p{
+    margin-top: 10px;
+  }
+  .sectionReviews .sectionReviews_testimonial p{
+    margin-top: 90px;
+    width: auto;
+  }
+    .img0HeadlineText{
+         top: 50px;
+        left: 10px;
+        height: 80px;
+     }
+     .imgHeadlineText{
+          top: -40px;
+          left: 30px;
+         height: 100px;
+         }
+  
+         .sectionProducts .logos_headline section{
+            flex-direction: column;
+            text-align: center;
+         }
+         .sectionProducts
+         .imgMock button{
+            width: 60vw;
+            height: auto;
+         }
+         .Product0_headline .Product_headlineImg img{
+            width: 50vw;
+         }
+         .ProductoHeadline_Gose 
+         .ProductoHeadline_GoseImg img{
+            width: 40vw;
+            height: 20vh;
+         }
+       .Headline_GoseWebForce div section img{
+        height: 25vh;
+       }
+       .Imagen_19g{
+        height: 100px;
+        top: -20px;
+       }
+       .Imagen_19b{
+        height: 150px;
+       }
+  }
+
+
